@@ -1,1 +1,1 @@
-# DIVINE_AIML-practice
+# DIVINE_AIML_practice
